@@ -1,0 +1,11 @@
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Service\bin\Debug\netcoreapp3.0\ApiChamado.Service.deps.json
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Service\bin\Debug\netcoreapp3.0\ApiChamado.Service.dll
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Service\bin\Debug\netcoreapp3.0\ApiChamado.Service.pdb
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Service\bin\Debug\netcoreapp3.0\ApiChamado.Domain.dll
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Service\bin\Debug\netcoreapp3.0\ApiChamado.Domain.pdb
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Service\obj\Debug\netcoreapp3.0\ApiChamado.Service.csprojAssemblyReference.cache
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Service\obj\Debug\netcoreapp3.0\ApiChamado.Service.AssemblyInfoInputs.cache
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Service\obj\Debug\netcoreapp3.0\ApiChamado.Service.AssemblyInfo.cs
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Service\obj\Debug\netcoreapp3.0\ApiChamado.Service.csproj.CopyComplete
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Service\obj\Debug\netcoreapp3.0\ApiChamado.Service.dll
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Service\obj\Debug\netcoreapp3.0\ApiChamado.Service.pdb

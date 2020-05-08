@@ -1,0 +1,10 @@
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Domain\bin\Debug\netcoreapp3.0\ApiChamado.Domain.deps.json
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Domain\bin\Debug\netcoreapp3.0\ApiChamado.Domain.runtimeconfig.json
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Domain\bin\Debug\netcoreapp3.0\ApiChamado.Domain.runtimeconfig.dev.json
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Domain\bin\Debug\netcoreapp3.0\ApiChamado.Domain.dll
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Domain\bin\Debug\netcoreapp3.0\ApiChamado.Domain.pdb
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Domain\obj\Debug\netcoreapp3.0\ApiChamado.Domain.AssemblyInfoInputs.cache
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Domain\obj\Debug\netcoreapp3.0\ApiChamado.Domain.AssemblyInfo.cs
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Domain\obj\Debug\netcoreapp3.0\ApiChamado.Domain.dll
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Domain\obj\Debug\netcoreapp3.0\ApiChamado.Domain.pdb
+C:\Users\Kelven Barbieri\Documents\.netcoreProjects\ApiChamado\ApiChamado.Domain\obj\Debug\netcoreapp3.0\ApiChamado.Domain.csprojAssemblyReference.cache
